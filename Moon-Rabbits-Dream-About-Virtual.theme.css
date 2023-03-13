@@ -51,11 +51,11 @@
 
     /* Background Colors & BG Image */
     --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
+    --bg-gradient2: #ffffff;
+    --bg-gradient3: #e297b2;
     --bg-image: url("https://wallpapercave.com/wp/wp5953847.png"); /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
-    --bg-blur: 6px; /* Value in px */
+    --bg-blur: 0px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
     --H: 339; /* Value in numbers [339 is default] */
