@@ -44,15 +44,19 @@
     --custom-text: "MY FRIENDS ARE STORED HERE!";
 
     /* General Colors */
-    --border-color: #da4a60;
-    --drag-gradient1: #e8c4d3;
-    --drag-gradient2: #e39ba7;
-    --name-bg: #d95b72;
+    --border-color: #e297b2;
+    --drag-gradient1: #e297b2;
+    --drag-gradient2: #e297b2;
+    --name-bg: #e297b2;
+   
 
     /* Background Colors & BG Image */
     --bg-gradient1: #e297b2;
+   opacity: 0;
     --bg-gradient2: #ffffff;
+   opacity: 0;
     --bg-gradient3: #e297b2;
+   opacity: 0;
     --bg-image: url("https://wallpapercave.com/wp/wp5953847.png"); /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 0px; /* Value in px */
